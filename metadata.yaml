@@ -1,0 +1,27 @@
+_repo: Romancero-gitano_72665
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lorca, Federico García
+    gutenberg_agent_id: '56772'
+    url: http://www.gutenberg.org/2009/agents/56772
+description: ''
+gutenberg_issued: '2024-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72665'
+language: es
+pgterms:marc904: http://bdh.bne.es/bnesearch/detalle/bdh0000200883
+pgterms:marc905: 20240103040003garcalorca
+pgterms:marc906: '1928'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box (This file was produced from images generously
+  made available by Biblioteca Digital Hispánica/Biblioteca Nacional de España.)
+publication_note: '  $aMadrid :$bRevista de Occidente, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Romancero gitano
+url: http://www.gutenberg.org/ebooks/72665
